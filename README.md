@@ -12,7 +12,7 @@ This is my personal portfolio website showcasing my skills, projects, and contac
 ## How to View
 
 The website is hosted on GitHub Pages and can be accessed at:  
-https://yourusername.github.io/your-repository-name/
+https://github.com/Sarayugoud/My-portfolio.git/
 
 ## Technologies Used
 
@@ -23,7 +23,7 @@ https://yourusername.github.io/your-repository-name/
 ## How to Run Locally
 
 1. Clone the repository:
-git clone : https://github.com/Sarayugoud/My-portfolio.git
+git clone : https://github.com/Sarayugoud/My-portfolio.git/
 
 2. Open `index.html` in a web browser.
 
